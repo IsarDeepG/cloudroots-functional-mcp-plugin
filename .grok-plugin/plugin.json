@@ -1,0 +1,11 @@
+{
+  "name": "cloudroots-functional-testing",
+  "description": "Inspect a public website and return evidence-backed functional test cases. No sign-in.",
+  "version": "0.1.0",
+  "author": {
+    "name": "CloudRoots",
+    "url": "https://www.cloudroots.co.in"
+  },
+  "homepage": "https://mcp.cloudroots.co.in/docs",
+  "license": "MIT"
+}

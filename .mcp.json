@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "cloudroots": {
+      "type": "http",
+      "url": "https://mcp.cloudroots.co.in/mcp",
+      "note": "CloudRoots Functional Testing. No sign-in. Inspects a public site and returns evidence-backed functional test cases. Docs: https://mcp.cloudroots.co.in/docs"
+    }
+  }
+}
